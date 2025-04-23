@@ -64,9 +64,9 @@ Detalhe a evolução nos últimos anos e se as curvas estão de acordo com boas 
 
 Para responder este exercício, você deve fazer um `fork` deste repositório e apresentar as três informações abaixo:
 
-1. Adicione no seu `fork` o arquivo `index.html` gerado.
+1. Adicione arquivo gerado `index.html` no seu fork.
 
-2. Link do repositório: <LINK_DO_SEU_REPOSITORIO_AQUI>
+2. Link do repositório selecionado: <LINK_DO_SEU_REPOSITORIO_AQUI>
   
 3. Explicação: <SUA_EXPLICACAO_AQUI>
 
