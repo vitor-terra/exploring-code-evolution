@@ -55,12 +55,18 @@ Abra o arquivo `index.html` e observe com atenção os três primeiros gráficos
 2. Files
 3. LOC / files
 
-# Exercício: Explicar os três gráficos de evolução de código
+# Passo 4: Explicar os três gráficos de evolução de código
 
 Explique com suas palavras os gráficos (1) Lines of code (LOC), (2) Files e (3) LOC / files.
-Detalhe a evolução nos últimos anos e se as curvas estão de acordo com boas práticas de manutenção e evolução.
+Por exemplo, você pode 
+detalhar a evolução ao longo do tempo, 
+detalhar se as curvas estão de acordo com boas práticas,
+explicar grandes alterações nas curvas,
+explorar a documentação/logs do repositório em busca de explicações para grandes alterações, etc.
+Seja criativo!
 
-### Submissão: (1) index.html, (2) link e (3) explicação
+
+### Submissão: (1) index.html, (2) link do repositório e (3) explicação
 
 Para responder este exercício, você deve fazer um `fork` deste repositório e apresentar as três informações abaixo:
 
