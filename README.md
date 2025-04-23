@@ -23,7 +23,7 @@ Instale a ferramenta [GitEvo](https://github.com/andrehora/gitevo) com o comando
 pip install gitevo
 ```
 
-Rode a ferramenta através do seguinte comando, dependendo da linguagem do projeto que escolheu:
+Rode a ferramenta no repositório selecionado através do seguinte comando (dependendo da linguagem do projeto que escolheu):
 
 ```shell
 # Python
