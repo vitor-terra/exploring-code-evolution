@@ -65,6 +65,7 @@ Seja criativo!
 # Exercício
 
 Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
+No Moodle, você deve submeter apenas o link do seu `fork`.
 
 Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
@@ -75,11 +76,6 @@ Por fim, responda as questões abaixo no seu `fork`:
 2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
   
 3. Explicação: <EXPLICACAO_AQUI>
-
-# Submissão
-
-No Moodle, você deve submeter apenas o link do seu `fork`.
-
 
 
 
