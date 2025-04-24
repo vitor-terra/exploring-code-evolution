@@ -49,6 +49,7 @@ $ gitevo -r python https://github.com/pallets/flask
 # Passo 3: Explorar os gráficos de evolução de código (`index.html`)
 
 Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), o arquivo `index.html` é gerado com diversos gráficos de evolução de código.
+
 Abra o arquivo `index.html` e observe com atenção os gráficos gerados.
 
 # Passo 4: Explicar um gráfico de evolução de código
