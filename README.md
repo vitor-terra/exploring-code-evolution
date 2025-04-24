@@ -62,7 +62,7 @@ explicar grandes alterações nas curvas,
 explorar a documentação do repositório em busca de explicações para grandes alterações, etc.
 Seja criativo!
 
-### Exercício
+## Exercício
 
 Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
 
@@ -76,7 +76,7 @@ Por fim, responda as questões abaixo no seu `fork`:
   
 3. Explicação: <EXPLICACAO_AQUI>
 
-### Submissão
+## Submissão
 
 No Moodle, você deve submeter apenas o link do seu `fork`.
 
