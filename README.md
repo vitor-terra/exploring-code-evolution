@@ -1,4 +1,4 @@
-# Exploring code evolution
+# Explorando evolução de código
 
 Neste exercício, iremos explorar a evolução de código em sistemas reais.
 
@@ -46,36 +46,36 @@ Por exemplo, para analisar o projeto Flask escrito em Python:
 $ gitevo -r python https://github.com/pallets/flask
 ```
 
-# Passo 3: Explorar a evolução de código (arquivo `index.html`)
+# Passo 3: Explorar os gráficos de evolução de código (arquivo `index.html`)
 
-Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), um arquivo `index.html` é gerado com diversos gráficos de evolução de código.
-Abra o arquivo `index.html` e observe com atenção os três primeiros gráficos: 
+Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), o arquivo `index.html` é gerado com diversos gráficos de evolução de código.
+Abra o arquivo `index.html` e observe com atenção os gráficos gerados.
 
-1. Lines of code (LOC)
-2. Files
-3. LOC / files
+# Passo 4: Explicar um gráfico de evolução de código
 
-# Passo 4: Explicar os três gráficos de evolução de código
-
-Explique com suas palavras os gráficos (1) Lines of code (LOC), (2) Files e (3) LOC / files.
+Selecione um dos gráficos de evolução e explique-o com suas palavras.
 Por exemplo, você pode 
 detalhar a evolução ao longo do tempo, 
 detalhar se as curvas estão de acordo com boas práticas,
 explicar grandes alterações nas curvas,
-explorar a documentação/logs do repositório em busca de explicações para grandes alterações, etc.
+explorar a documentação do repositório em busca de explicações para grandes alterações, etc.
 Seja criativo!
 
+### Exercício
 
-### Submissão: (1) index.html, (2) link do repositório e (3) explicação
+Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório e adicionar o arquivo gerado `index.html` no seu fork.
 
-Para responder este exercício, você deve fazer um `fork` deste repositório e apresentar as três informações abaixo:
+Em seguida, responda as questões abaixo no seu `fork`: 
 
-1. Adicione arquivo gerado `index.html` no seu fork.
+1. Repositório selecionado: <LINK_DO_REPOSITORIO_SELECIONADO_AQUI>
 
-2. Link do repositório selecionado: <LINK_DO_SEU_REPOSITORIO_AQUI>
+2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
   
-3. Explicação: <SUA_EXPLICACAO_AQUI>
+3. Explicação: <EXPLICACAO_AQUI>
 
+### Submissão
+
+No Moodle, você deve submeter apenas o link do seu `fork`.
 
 
 
