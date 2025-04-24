@@ -64,9 +64,11 @@ Seja criativo!
 
 ### Exercício
 
-Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório e adicionar o arquivo gerado `index.html` no seu fork.
+Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
 
-Em seguida, responda as questões abaixo no seu `fork`: 
+Em seguida, adicione o arquivo gerado `index.html` no seu fork.
+
+Por fim, responda as questões abaixo no seu `fork`: 
 
 1. Repositório selecionado: <LINK_DO_REPOSITORIO_SELECIONADO_AQUI>
 
