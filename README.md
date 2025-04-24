@@ -65,13 +65,13 @@ Seja criativo!
 # Exercício
 
 Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
-No Moodle, você deve submeter apenas o link do seu `fork`.
+No Moodle, você deve submeter apenas a URL do seu `fork`.
 
 Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <LINK_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
 
 2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
   
