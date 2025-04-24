@@ -5,6 +5,8 @@ Neste exercício, iremos explorar a evolução de código em sistemas reais.
 Iremos utilizar a ferramenta [GitEvo](https://github.com/andrehora/gitevo).
 Essa ferramenta analisa a evolução de código em repositórios Git nas seguintes linguagens: Python, JavaScript, TypeScript e Java.
 
+Você deve submeter via Moodle apenas o link do seu `fork`, conforme descrito abaixo.
+
 # Passo 1: Selecionar repositório a ser analisado
 
 Selecione um repositório relevante na linguagem de sua preferência (Python, JavaScript, TypeScript ou Java).
