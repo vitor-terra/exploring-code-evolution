@@ -57,11 +57,14 @@ Abra o arquivo `index.html` e observe com atenção os gráficos gerados.
 # Passo 4: Explicar um gráfico de evolução de código
 
 Selecione um dos gráficos de evolução e explique-o com suas palavras.
-Por exemplo, você pode 
-detalhar a evolução ao longo do tempo, 
-detalhar se as curvas estão de acordo com boas práticas,
-explicar grandes alterações nas curvas,
-explorar a documentação do repositório em busca de explicações para grandes alterações, etc.
+Por exemplo, você pode:
+
+- Detalhar a evolução ao longo do tempo, 
+- Detalhar se as curvas estão de acordo com boas práticas,
+- Explicar grandes alterações nas curvas,
+- Explorar a documentação do repositório em busca de explicações para grandes alterações
+- Etc.
+
 Seja criativo!
 
 # Exercício
