@@ -3,7 +3,8 @@
 Neste exercício, iremos explorar a evolução de código em sistemas reais.
 
 Iremos utilizar a ferramenta [GitEvo](https://github.com/andrehora/gitevo).
-Essa ferramenta analisa a evolução de código em repositórios Git nas linguagens Python, JavaScript, TypeScript e Java.
+Essa ferramenta analisa a evolução de código em repositórios Git nas linguagens Python, JavaScript, TypeScript e Java, exportando relatórios `HTML` como [este](https://andrehora.github.io/gitevo-examples/python/pandas.html).
+Mais exemplos de relatórios podem ser podem ser encontrados em: https://github.com/andrehora/gitevo-examples.
 
 Você deve submeter via Moodle apenas o link do seu `fork`, conforme descrito abaixo.
 
@@ -21,7 +22,6 @@ Você pode encontrar projetos interessantes nos links abaixo:
 
 > [!NOTE]
 > Antes de instalar a ferramenta, é recomendado criar e ativar um [ambiente virtual Python](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#create-and-use-virtual-environments).
-
 
 Instale a ferramenta [GitEvo](https://github.com/andrehora/gitevo) com o comando:
 
@@ -46,47 +46,44 @@ $ gitevo -r ts <git_url>
 $ gitevo -r java <git_url>
 ```
 
-> [!NOTE]
-> Essa etapa pode demorar alguns minutos pois o projeto será clonado e analisado localmente.
-
 Por exemplo, para analisar o projeto Flask escrito em Python:
 
 ```
 $ gitevo -r python https://github.com/pallets/flask
 ```
 
-# Passo 3: Explorar os gráficos de evolução de código
+> [!NOTE]
+> Essa etapa pode demorar alguns minutos pois o projeto será clonado e analisado localmente.
 
-Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), um arquivo `html` é gerado com diversos gráficos de evolução de código.
+# Passo 3: Explorar o relatório de evolução de código
 
-Abra o arquivo `html` e observe com atenção os gráficos gerados.
+Após executar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), é gerado um relatório `HTML` contendo diversos gráficos sobre a evolução do código.
+
+Abra o relatório `HTML` e observe com atenção os gráficos.
 
 # Passo 4: Explicar um gráfico de evolução de código
 
 Selecione um dos gráficos de evolução e explique-o com suas palavras.
 Por exemplo, você pode:
 
-- Detalhar a evolução ao longo do tempo, 
-- Detalhar se as curvas estão de acordo com boas práticas,
-- Explicar grandes alterações nas curvas,
+- Detalhar a evolução ao longo do tempo
+- Detalhar se as curvas estão de acordo com boas práticas
+- Explicar grandes alterações nas curvas
 - Explorar a documentação do repositório em busca de explicações para grandes alterações
-- Etc.
+- etc.
 
 Seja criativo!
 
-# Exercício
+# Instruções para o exercício
 
-Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
-No Moodle, você deve submeter apenas a URL do seu `fork`.
+1. Crie um `fork` deste repositório (mais informações sobre forks [aqui](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)).
+2. Adicione o relatório `HTML` no seu fork.
+3. No Moodle, submeta apenas a URL do seu `fork`.
 
-Em seguida, adicione o arquivo gerado `index.html` no seu fork.
-
-Por fim, responda as questões abaixo no seu `fork`: 
+Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
-  
+2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
 3. Explicação: <EXPLICACAO_AQUI>
 
 
