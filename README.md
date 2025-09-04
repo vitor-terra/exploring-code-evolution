@@ -19,10 +19,14 @@ Você pode encontrar projetos interessantes nos links abaixo:
 
 # Passo 2: Instalar e rodar a ferramenta GitEvo
 
+> [!NOTE]
+> Antes de instalar a ferramenta, é recomendado criar e ativar um [ambiente virtual Python](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#create-and-use-virtual-environments).
+
+
 Instale a ferramenta [GitEvo](https://github.com/andrehora/gitevo) com o comando:
 
 ```
-pip install gitevo
+$ pip install gitevo
 ```
 
 Execute a ferramenta no repositório selecionado utilizando o comando abaixo (ajuste conforme a linguagem do repositório).
