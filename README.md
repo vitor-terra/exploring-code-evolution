@@ -36,10 +36,10 @@ Substitua `<git_url>` pela URL do repositório que será analisado:
 $ gitevo -r python <git_url>
 
 # JavaScript
-$ gitevo -r js <git_url>
+$ gitevo -r javascript <git_url>
 
 # TypeScript
-$ gitevo -r ts <git_url>
+$ gitevo -r typescript <git_url>
 
 # Java
 $ gitevo -r java <git_url>
