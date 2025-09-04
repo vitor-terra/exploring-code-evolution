@@ -4,7 +4,8 @@ Neste exercício, iremos explorar a evolução de código em sistemas reais.
 
 Iremos utilizar a ferramenta [GitEvo](https://github.com/andrehora/gitevo).
 Essa ferramenta analisa a evolução de código em repositórios Git nas linguagens Python, JavaScript, TypeScript e Java, e gera relatórios `HTML` como [este](https://andrehora.github.io/gitevo-examples/python/pandas.html).
-Mais exemplos de relatórios podem ser podem ser encontrados em: https://github.com/andrehora/gitevo-examples.
+
+Mais exemplos de relatórios podem ser podem ser encontrados em https://github.com/andrehora/gitevo-examples.
 
 # Passo 1: Selecionar repositório a ser analisado
 
