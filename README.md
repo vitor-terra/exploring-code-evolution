@@ -3,7 +3,7 @@
 Neste exercício, iremos explorar a evolução de código em sistemas reais.
 
 Iremos utilizar a ferramenta [GitEvo](https://github.com/andrehora/gitevo).
-Essa ferramenta analisa a evolução de código em repositórios Git nas seguintes linguagens: Python, JavaScript, TypeScript e Java.
+Essa ferramenta analisa a evolução de código em repositórios Git nas linguagens Python, JavaScript, TypeScript e Java.
 
 Você deve submeter via Moodle apenas o link do seu `fork`, conforme descrito abaixo.
 
@@ -25,7 +25,8 @@ Instale a ferramenta [GitEvo](https://github.com/andrehora/gitevo) com o comando
 pip install gitevo
 ```
 
-Rode a ferramenta no repositório selecionado através do seguinte comando (dependendo da linguagem do projeto que escolheu):
+Execute a ferramenta no repositório selecionado utilizando o comando abaixo (ajuste conforme a linguagem do repositório).
+Substitua `<git_url>` pela URL do repositório que será analisado:
 
 ```shell
 # Python
@@ -41,18 +42,20 @@ $ gitevo -r ts <git_url>
 $ gitevo -r java <git_url>
 ```
 
-Onde `<git_url>` é URL do repositório a ser analisado.
+> [!NOTE]
+> Essa etapa pode demorar alguns minutos pois o projeto será clonado e analisado localmente.
+
 Por exemplo, para analisar o projeto Flask escrito em Python:
 
 ```
 $ gitevo -r python https://github.com/pallets/flask
 ```
 
-# Passo 3: Explorar os gráficos de evolução de código (`index.html`)
+# Passo 3: Explorar os gráficos de evolução de código
 
-Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), o arquivo `index.html` é gerado com diversos gráficos de evolução de código.
+Ao rodar a ferramenta [GitEvo](https://github.com/andrehora/gitevo), um arquivo `html` é gerado com diversos gráficos de evolução de código.
 
-Abra o arquivo `index.html` e observe com atenção os gráficos gerados.
+Abra o arquivo `html` e observe com atenção os gráficos gerados.
 
 # Passo 4: Explicar um gráfico de evolução de código
 
