@@ -92,6 +92,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 ![javafiles](JavaFiles.png)
 
 3. Explicação:
+
 O gráfico selecionado é particularmente interessante pois ele mostra uma das peculiaridades do projeto, que se trata basicamente de uma coleção de algoritmos escritos em Java para fins didáticos. Enquanto em um repositório mais "clássico" se esperaria mais interfaces e records, devido à natureza do projeto, são declarados pouquíssimos desses TADs (10 interfaces e 19 records até 2025) em favor de classes comuns. Isso faz sentido, pois cada algoritmo é autocontido, raramente sendo necessários outros TADs além da classe que os contém. De fato, analisando também o gráfico de arquivos java, vemos que o repositório tem um total de 1253 arquivos Java e, voltando ao gráfico em evidência, existem 1394 classes declaradas entre estes arquivos, ou seja, apenas cerca de 1,112 classes por arquivo, ou seja, a maioria dos arquivos provavelmente contém apenas uma classe com alguns poucos contendo mais.
 
 
